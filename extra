@@ -1,0 +1,684 @@
+
+    <div id="js-home-slice-8" class=" home-slice home-slice-slice2 home-slice--index-8">
+        <div class="container container--pad">
+            <div class="grid-32 row row--collapse">
+                <div class="col l-col-16 s-col-32 pos-rel" id="promo_unit_625423f0364945119">
+                    <a href="/contact-us-i3" class="promo-unit__link" title="Open An Account">
+                        <div class="promo-unit__container--none promo-unit__mobile-overlay--none">
+                            <style type="text/css">
+                                .promo_unit_s159110929312367-0_0_21 {
+                                    padding-bottom: 45.83%
+                                }
+
+                                @media only screen and (min-width:768px) and (max-width:1024px) {
+                                    .promo_unit_s159110929312367-0_0_21 {
+                                        padding-bottom: 45.9%
+                                    }
+                                }
+
+                                @media only screen and (min-width:481px) and (max-width:767px) {
+                                    .promo_unit_s159110929312367-0_0_21 {
+                                        padding-bottom: 39.06%
+                                    }
+                                }
+
+                                @media only screen and (max-width:480px) {
+                                    .promo_unit_s159110929312367-0_0_21 {
+                                        padding-bottom: 39.17%
+                                    }
+                                }
+                            </style>
+                            <picture class="promo-unit__promo-image promo_unit_s159110929312367-0_0_21">
+                                <!--[if IE 9]><video
+style="display:none"><![endif]-->
+                                <source
+                                    data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/xsmall/1598437704-02497100.jpg"
+                                    media="(max-width:480px)">
+                                <source
+                                    data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/small/1598437704-02497100.jpg"
+                                    media="(min-width:481px) and (max-width:767px)">
+                                <source
+                                    data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/medium/1598437704-02497100.jpg"
+                                    media="(min-width:768px) and (max-width:1024px)">
+                                <source
+                                    data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/1598437704-02497100.jpg">
+                                <!--[if IE 9]></video><![endif]-->
+                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                    data-src="https://www.magnumpackaging.co.uk/images/modules/promo_units/1598437704-02497100.jpg"
+                                    alt="Open An Account" title="Open An Account" class="lazyload">
+                            </picture>
+                        </div>
+                    </a>
+                </div>
+                <script>if (typeof promo625423f0364945119_promo_unit_s159110929312367_0_0Interval === 'undefined') {
+                        var promo625423f0364945119_promo_unit_s159110929312367_0_0Interval = setInterval(function () {
+                            if (typeof EnhancedEcommerceLoaded === 'undefined' || !EnhancedEcommerceLoaded) { return; }
+                            clearInterval(promo625423f0364945119_promo_unit_s159110929312367_0_0Interval); var promo = new EnhancedEcommerce.PromoFieldObject({ id: 'promo_unit_s159110929312367-0_0', name: 'Open An Account', creative: 'https://www.magnumpackaging.co.uk/images/modules/promo_units/1598437704-02497100.jpg', position: '0' }); enhancedEcommerce.addPromo(promo); enhancedEcommerce.bindPromoClick(promo, '#promo_unit_625423f0364945119 a.promo-unit__link', {
+                                eventCategory: 'UX', eventAction: EnhancedEcommerce.Action.PROMO_CLICK, eventLabel: 'Promo Unit Click', hitCallback: function () {
+                                    var link = '/contact-us-i3'; if (typeof $.cookie === "function" && $.cookie('locale_prefix') !== null && link.indexOf('/') === 0 && link.indexOf('/' + $.cookie('locale_prefix') + '/') === -1) { link = '/' + $.cookie('locale_prefix') + link; }
+                                    document.location = link;
+                                }
+                            });
+                        }, 100);
+                    }</script>
+                <div class="col l-col-16 s-col-32 pos-rel" id="promo_unit_625423f036c7b4721">
+                    <a href="/bespoke-products-c4" class="promo-unit__link" title="Bespoke Service">
+                        <div class="promo-unit__container--none promo-unit__mobile-overlay--none">
+                            <style type="text/css">
+                                .promo_unit_s159110929312367-0_1_22 {
+                                    padding-bottom: 45.83%
+                                }
+
+                                @media only screen and (min-width:768px) and (max-width:1024px) {
+                                    .promo_unit_s159110929312367-0_1_22 {
+                                        padding-bottom: 45.9%
+                                    }
+                                }
+
+                                @media only screen and (min-width:481px) and (max-width:767px) {
+                                    .promo_unit_s159110929312367-0_1_22 {
+                                        padding-bottom: 39.06%
+                                    }
+                                }
+
+                                @media only screen and (max-width:480px) {
+                                    .promo_unit_s159110929312367-0_1_22 {
+                                        padding-bottom: 39.17%
+                                    }
+                                }
+                            </style>
+                            <picture class="promo-unit__promo-image promo_unit_s159110929312367-0_1_22">
+                                <!--[if IE 9]><video
+style="display:none"><![endif]-->
+                                <source
+                                    data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/xsmall/1598437833-10424300.jpg"
+                                    media="(max-width:480px)">
+                                <source
+                                    data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/small/1598437833-10424300.jpg"
+                                    media="(min-width:481px) and (max-width:767px)">
+                                <source
+                                    data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/medium/1598437833-10424300.jpg"
+                                    media="(min-width:768px) and (max-width:1024px)">
+                                <source
+                                    data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/1598437833-10424300.jpg">
+                                <!--[if IE 9]></video><![endif]-->
+                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                    data-src="https://www.magnumpackaging.co.uk/images/modules/promo_units/1598437833-10424300.jpg"
+                                    alt="Bespoke Service" title="Bespoke Service" class="lazyload">
+                            </picture>
+                        </div>
+                    </a>
+                </div>
+                <script>if (typeof promo625423f036c7b4721_promo_unit_s159110929312367_0_1Interval === 'undefined') {
+                        var promo625423f036c7b4721_promo_unit_s159110929312367_0_1Interval = setInterval(function () {
+                            if (typeof EnhancedEcommerceLoaded === 'undefined' || !EnhancedEcommerceLoaded) { return; }
+                            clearInterval(promo625423f036c7b4721_promo_unit_s159110929312367_0_1Interval); var promo = new EnhancedEcommerce.PromoFieldObject({ id: 'promo_unit_s159110929312367-0_1', name: 'Bespoke Service', creative: 'https://www.magnumpackaging.co.uk/images/modules/promo_units/1598437833-10424300.jpg', position: '1' }); enhancedEcommerce.addPromo(promo); enhancedEcommerce.bindPromoClick(promo, '#promo_unit_625423f036c7b4721 a.promo-unit__link', {
+                                eventCategory: 'UX', eventAction: EnhancedEcommerce.Action.PROMO_CLICK, eventLabel: 'Promo Unit Click', hitCallback: function () {
+                                    var link = '/bespoke-products-c4'; if (typeof $.cookie === "function" && $.cookie('locale_prefix') !== null && link.indexOf('/') === 0 && link.indexOf('/' + $.cookie('locale_prefix') + '/') === -1) { link = '/' + $.cookie('locale_prefix') + link; }
+                                    document.location = link;
+                                }
+                            });
+                        }, 100);
+                    }</script>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div id="js-home-slice-9" class=" home-slice home-slice-slice2 home-slice--index-9">
+        <div class="container container--pad">
+            <div class="grid-32 row row--collapse">
+                <div class="col l-col-16 s-col-32 pos-rel" id="promo_unit_625423f0374616322">
+                    <div class="promo-unit__container--none promo-unit__mobile-overlay--none">
+                        <style type="text/css">
+                            .promo_unit_s159110929571182-0_0_23 {
+                                padding-bottom: 69.44%
+                            }
+
+                            @media only screen and (min-width:768px) and (max-width:1024px) {
+                                .promo_unit_s159110929571182-0_0_23 {
+                                    padding-bottom: 69.53%
+                                }
+                            }
+
+                            @media only screen and (min-width:481px) and (max-width:767px) {
+                                .promo_unit_s159110929571182-0_0_23 {
+                                    padding-bottom: 52.08%
+                                }
+                            }
+
+                            @media only screen and (max-width:480px) {
+                                .promo_unit_s159110929571182-0_0_23 {
+                                    padding-bottom: 52.08%
+                                }
+                            }
+                        </style>
+                        <picture class="promo-unit__promo-image promo_unit_s159110929571182-0_0_23">
+                            <!--[if IE 9]><video
+style="display:none"><![endif]-->
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/xsmall/1598437780-72621400.jpg"
+                                media="(max-width:480px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/small/1598437780-72621400.jpg"
+                                media="(min-width:481px) and (max-width:767px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/medium/1598437780-72621400.jpg"
+                                media="(min-width:768px) and (max-width:1024px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/1598437780-72621400.jpg">
+                            <!--[if IE 9]></video><![endif]-->
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                data-src="https://www.magnumpackaging.co.uk/images/modules/promo_units/1598437780-72621400.jpg"
+                                alt="A Trusted Name In Packaging" title="A Trusted Name In Packaging" class="lazyload">
+                        </picture>
+                    </div>
+                </div>
+                <script>if (typeof promo625423f0374616322_promo_unit_s159110929571182_0_0Interval === 'undefined') {
+                        var promo625423f0374616322_promo_unit_s159110929571182_0_0Interval = setInterval(function () {
+                            if (typeof EnhancedEcommerceLoaded === 'undefined' || !EnhancedEcommerceLoaded) { return; }
+                            clearInterval(promo625423f0374616322_promo_unit_s159110929571182_0_0Interval); var promo = new EnhancedEcommerce.PromoFieldObject({ id: 'promo_unit_s159110929571182-0_0', name: 'A Trusted Name In Packaging', creative: 'https://www.magnumpackaging.co.uk/images/modules/promo_units/1598437780-72621400.jpg', position: '0' }); enhancedEcommerce.addPromo(promo);
+                        }, 100);
+                    }</script>
+                <div class="col l-col-16 s-col-32 pos-rel" id="promo_unit_625423f037c582046">
+                    <div class="promo-unit__container--none promo-unit__mobile-overlay--none">
+                        <style type="text/css">
+                            .promo_unit_s159110929571182-0_1_24 {
+                                padding-bottom: 69.44%
+                            }
+
+                            @media only screen and (min-width:768px) and (max-width:1024px) {
+                                .promo_unit_s159110929571182-0_1_24 {
+                                    padding-bottom: 69.53%
+                                }
+                            }
+
+                            @media only screen and (min-width:481px) and (max-width:767px) {
+                                .promo_unit_s159110929571182-0_1_24 {
+                                    padding-bottom: 69.44%
+                                }
+                            }
+
+                            @media only screen and (max-width:480px) {
+                                .promo_unit_s159110929571182-0_1_24 {
+                                    padding-bottom: 69.38%
+                                }
+                            }
+                        </style>
+                        <picture class="promo-unit__promo-image promo_unit_s159110929571182-0_1_24">
+                            <!--[if IE 9]><video
+style="display:none"><![endif]-->
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/xsmall/1631107847-74752000.png, https://www.magnumpackaging.co.uk/images/modules/promo_units/xsmall/retina-1631107847-74752000.png 2x"
+                                media="(max-width:480px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/small/1631107847-74752000.png"
+                                media="(min-width:481px) and (max-width:767px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/medium/1631107847-74752000.png"
+                                media="(min-width:768px) and (max-width:1024px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/1631107847-74752000.png">
+                            <!--[if IE 9]></video><![endif]-->
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                data-src="https://www.magnumpackaging.co.uk/images/modules/promo_units/1631107847-74752000.png"
+                                alt="Magnum Packaging" title="Magnum Packaging" class="lazyload">
+                        </picture>
+                    </div>
+                </div>
+                <script>if (typeof promo625423f037c582046_promo_unit_s159110929571182_0_1Interval === 'undefined') {
+                        var promo625423f037c582046_promo_unit_s159110929571182_0_1Interval = setInterval(function () {
+                            if (typeof EnhancedEcommerceLoaded === 'undefined' || !EnhancedEcommerceLoaded) { return; }
+                            clearInterval(promo625423f037c582046_promo_unit_s159110929571182_0_1Interval); var promo = new EnhancedEcommerce.PromoFieldObject({ id: 'promo_unit_s159110929571182-0_1', name: 'Magnum Packaging', creative: 'https://www.magnumpackaging.co.uk/images/modules/promo_units/1631107847-74752000.png', position: '1' }); enhancedEcommerce.addPromo(promo);
+                        }, 100);
+                    }</script>
+            </div>
+        </div>
+    </div>
+    <div id="js-home-slice-10" class=" home-slice home-slice-slice4 home-slice--index-10">
+        <div class="container container--pad">
+            <div class="grid-32 row row--collapse">
+                <div class="col l-col-8 s-col-16 pos-rel" id="promo_unit_625423f0384259090">
+                    <div class="promo-unit__container--none promo-unit__mobile-overlay--none">
+                        <style type="text/css">
+                            .promo_unit_s159110930547750-0_0_25 {
+                                padding-bottom: 91.67%
+                            }
+
+                            @media only screen and (min-width:768px) and (max-width:1024px) {
+                                .promo_unit_s159110930547750-0_0_25 {
+                                    padding-bottom: 91.67%
+                                }
+                            }
+
+                            @media only screen and (min-width:481px) and (max-width:767px) {
+                                .promo_unit_s159110930547750-0_0_25 {
+                                    padding-bottom: 91.67%
+                                }
+                            }
+
+                            @media only screen and (max-width:480px) {
+                                .promo_unit_s159110930547750-0_0_25 {
+                                    padding-bottom: 91.67%
+                                }
+                            }
+                        </style>
+                        <picture class="promo-unit__promo-image promo_unit_s159110930547750-0_0_25">
+                            <!--[if IE 9]><video
+style="display:none"><![endif]-->
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/xsmall/1631271099-13638200.jpg"
+                                media="(max-width:480px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/small/1631271099-13638200.jpg"
+                                media="(min-width:481px) and (max-width:767px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/medium/1631271099-13638200.jpg"
+                                media="(min-width:768px) and (max-width:1024px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/1631271099-13638200.jpg">
+                            <!--[if IE 9]></video><![endif]-->
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                data-src="https://www.magnumpackaging.co.uk/images/modules/promo_units/1631271099-13638200.jpg"
+                                alt="100% Quality" title="100% Quality" class="lazyload">
+                        </picture>
+                    </div>
+                </div>
+                <script>if (typeof promo625423f0384259090_promo_unit_s159110930547750_0_0Interval === 'undefined') {
+                        var promo625423f0384259090_promo_unit_s159110930547750_0_0Interval = setInterval(function () {
+                            if (typeof EnhancedEcommerceLoaded === 'undefined' || !EnhancedEcommerceLoaded) { return; }
+                            clearInterval(promo625423f0384259090_promo_unit_s159110930547750_0_0Interval); var promo = new EnhancedEcommerce.PromoFieldObject({ id: 'promo_unit_s159110930547750-0_0', name: '100% Quality', creative: 'https://www.magnumpackaging.co.uk/images/modules/promo_units/1631271099-13638200.jpg', position: '0' }); enhancedEcommerce.addPromo(promo);
+                        }, 100);
+                    }</script>
+                <div class="col l-col-8 s-col-16 pos-rel" id="promo_unit_625423f038c0b8738">
+                    <div class="promo-unit__container--none promo-unit__mobile-overlay--none">
+                        <style type="text/css">
+                            .promo_unit_s159110930547750-0_1_26 {
+                                padding-bottom: 91.67%
+                            }
+
+                            @media only screen and (min-width:768px) and (max-width:1024px) {
+                                .promo_unit_s159110930547750-0_1_26 {
+                                    padding-bottom: 91.67%
+                                }
+                            }
+
+                            @media only screen and (min-width:481px) and (max-width:767px) {
+                                .promo_unit_s159110930547750-0_1_26 {
+                                    padding-bottom: 100%
+                                }
+                            }
+
+                            @media only screen and (max-width:480px) {
+                                .promo_unit_s159110930547750-0_1_26 {
+                                    padding-bottom: 100%
+                                }
+                            }
+                        </style>
+                        <picture class="promo-unit__promo-image promo_unit_s159110930547750-0_1_26">
+                            <!--[if IE 9]><video
+style="display:none"><![endif]-->
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/xsmall/1631271110-15669200.jpg"
+                                media="(max-width:480px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/small/1631271110-15669200.jpg"
+                                media="(min-width:481px) and (max-width:767px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/medium/1631271110-15669200.jpg"
+                                media="(min-width:768px) and (max-width:1024px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/1631271110-15669200.jpg">
+                            <!--[if IE 9]></video><![endif]-->
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                data-src="https://www.magnumpackaging.co.uk/images/modules/promo_units/1631271110-15669200.jpg"
+                                alt="Satisfaction Guaranteed" title="Satisfaction Guaranteed" class="lazyload">
+                        </picture>
+                    </div>
+                </div>
+                <script>if (typeof promo625423f038c0b8738_promo_unit_s159110930547750_0_1Interval === 'undefined') {
+                        var promo625423f038c0b8738_promo_unit_s159110930547750_0_1Interval = setInterval(function () {
+                            if (typeof EnhancedEcommerceLoaded === 'undefined' || !EnhancedEcommerceLoaded) { return; }
+                            clearInterval(promo625423f038c0b8738_promo_unit_s159110930547750_0_1Interval); var promo = new EnhancedEcommerce.PromoFieldObject({ id: 'promo_unit_s159110930547750-0_1', name: 'Satisfaction Guaranteed', creative: 'https://www.magnumpackaging.co.uk/images/modules/promo_units/1631271110-15669200.jpg', position: '1' }); enhancedEcommerce.addPromo(promo);
+                        }, 100);
+                    }</script>
+                <div class="col l-col-8 s-col-16 pos-rel" id="promo_unit_625423f03941a3586">
+                    <div class="promo-unit__container--none promo-unit__mobile-overlay--none">
+                        <style type="text/css">
+                            .promo_unit_s159110930547750-0_2_27 {
+                                padding-bottom: 91.67%
+                            }
+
+                            @media only screen and (min-width:768px) and (max-width:1024px) {
+                                .promo_unit_s159110930547750-0_2_27 {
+                                    padding-bottom: 91.67%
+                                }
+                            }
+
+                            @media only screen and (min-width:481px) and (max-width:767px) {
+                                .promo_unit_s159110930547750-0_2_27 {
+                                    padding-bottom: 100%
+                                }
+                            }
+
+                            @media only screen and (max-width:480px) {
+                                .promo_unit_s159110930547750-0_2_27 {
+                                    padding-bottom: 100%
+                                }
+                            }
+                        </style>
+                        <picture class="promo-unit__promo-image promo_unit_s159110930547750-0_2_27">
+                            <!--[if IE 9]><video
+style="display:none"><![endif]-->
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/xsmall/1631271120-14831700.jpg"
+                                media="(max-width:480px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/small/1631271120-14831700.jpg"
+                                media="(min-width:481px) and (max-width:767px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/medium/1631271120-14831700.jpg"
+                                media="(min-width:768px) and (max-width:1024px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/1631271120-14831700.jpg">
+                            <!--[if IE 9]></video><![endif]-->
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                data-src="https://www.magnumpackaging.co.uk/images/modules/promo_units/1631271120-14831700.jpg"
+                                alt="24 Hour Delivery" title="24 Hour Delivery" class="lazyload">
+                        </picture>
+                    </div>
+                </div>
+                <script>if (typeof promo625423f03941a3586_promo_unit_s159110930547750_0_2Interval === 'undefined') {
+                        var promo625423f03941a3586_promo_unit_s159110930547750_0_2Interval = setInterval(function () {
+                            if (typeof EnhancedEcommerceLoaded === 'undefined' || !EnhancedEcommerceLoaded) { return; }
+                            clearInterval(promo625423f03941a3586_promo_unit_s159110930547750_0_2Interval); var promo = new EnhancedEcommerce.PromoFieldObject({ id: 'promo_unit_s159110930547750-0_2', name: '24 Hour Delivery', creative: 'https://www.magnumpackaging.co.uk/images/modules/promo_units/1631271120-14831700.jpg', position: '2' }); enhancedEcommerce.addPromo(promo);
+                        }, 100);
+                    }</script>
+                <div class="col l-col-8 s-col-16 pos-rel" id="promo_unit_625423f039bd34064">
+                    <div class="promo-unit__container--none promo-unit__mobile-overlay--none">
+                        <style type="text/css">
+                            .promo_unit_s159110930547750-0_3_28 {
+                                padding-bottom: 91.67%
+                            }
+
+                            @media only screen and (min-width:768px) and (max-width:1024px) {
+                                .promo_unit_s159110930547750-0_3_28 {
+                                    padding-bottom: 91.67%
+                                }
+                            }
+
+                            @media only screen and (min-width:481px) and (max-width:767px) {
+                                .promo_unit_s159110930547750-0_3_28 {
+                                    padding-bottom: 91.67%
+                                }
+                            }
+
+                            @media only screen and (max-width:480px) {
+                                .promo_unit_s159110930547750-0_3_28 {
+                                    padding-bottom: 91.67%
+                                }
+                            }
+                        </style>
+                        <picture class="promo-unit__promo-image promo_unit_s159110930547750-0_3_28">
+                            <!--[if IE 9]><video
+style="display:none"><![endif]-->
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/xsmall/1631572707-63774600.png"
+                                media="(max-width:480px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/small/1631572707-63774600.png"
+                                media="(min-width:481px) and (max-width:767px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/medium/1631572707-63774600.png"
+                                media="(min-width:768px) and (max-width:1024px)">
+                            <source
+                                data-srcset="https://www.magnumpackaging.co.uk/images/modules/promo_units/1631572707-63774600.png">
+                            <!--[if IE 9]></video><![endif]-->
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                data-src="https://www.magnumpackaging.co.uk/images/modules/promo_units/1631572707-63774600.png"
+                                alt="40 Years Service" title="40 Years Service" class="lazyload">
+                        </picture>
+                    </div>
+                </div>
+                <script>if (typeof promo625423f039bd34064_promo_unit_s159110930547750_0_3Interval === 'undefined') {
+                        var promo625423f039bd34064_promo_unit_s159110930547750_0_3Interval = setInterval(function () {
+                            if (typeof EnhancedEcommerceLoaded === 'undefined' || !EnhancedEcommerceLoaded) { return; }
+                            clearInterval(promo625423f039bd34064_promo_unit_s159110930547750_0_3Interval); var promo = new EnhancedEcommerce.PromoFieldObject({ id: 'promo_unit_s159110930547750-0_3', name: '40 Years Service', creative: 'https://www.magnumpackaging.co.uk/images/modules/promo_units/1631572707-63774600.png', position: '3' }); enhancedEcommerce.addPromo(promo);
+                        }, 100);
+                    }</script>
+            </div>
+        </div>
+    </div>
+    <script>vs.q(function () { $('#js-home-slice-10 .promo-unit__slides').slickSlider({ lazyLoad: false, arrows: false, speed: 620, touchThreshold: 200, autoplaySpeed: 4000 }); });</script>
+    <div id="js-home-slice-11" class=" home-slice home-slice-sliceseo1 home-slice--index-11 text-align-center">
+        <div class="container container--pad">
+            <div class="row row--collapse">
+                <div class="col l-col-32">
+                    <div class="slice-content slice-content-1">
+                        <h1 class="slice-content__heading slice-content-1__heading">
+                            MAGNUM PACKAGING</h1>
+                        <div class="slice-content__text slice-content__text--1">
+                            <h3 style="text-align: center;"><span style="font-size: 16px;">We have been a trusted name
+                                    in the packaging industry for over 40 years, we have gained a wealth of knowledge
+                                    and experience in creating the highest quality packaging products available. You can
+                                    discover a wide range of items within our collection, including catering packaging,
+                                    polythene packaging and even bespoke packaging for all of your business needs. We
+                                    offer 24-hour delivery service and a 100% guarantee on all of our products as we
+                                    believe quality is paramount and want you to be satisfied with your Magnum Packaging
+                                    products</span></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+    
+    <footer id="js-site-footer" class="site-footer grid-32">
+        <div class="site-footer__social">
+            <div class="row container--pad container--pad--no-bg">
+                <div class="col l-col-14 m-col-30 m-offset-1">
+                    <form action="/newsletter/index" method="post" class="footer_newsletter_signup"
+                        id="newsletter_signup-625423f03a7a84989">
+                        <input name="domain_control"
+                            value="cswJfAynQPPqG7kOmeC5LiD8XPxC/8k7IwJ6puc7RnmZ31iJU3tvm6gnd4+ISuANXcupyhMRVf4rrgktxggmoA=="
+                            type="hidden" />
+                        <input class="vsRefererUri" name="vsRefererUri" type="hidden" />
+                        <script
+                            type="text/javascript">vs.q(function () { $('input.vsRefererUri').each(function () { $(this).val(window.location.href); }); });</script>
+                        <div class="site-footer__top__newsletter">
+                            <label class="site-footer__top__newsletter__title text-align-center"
+                                for="mailing_box-625423f03a7a84989"><i class="ico icon-envelope"></i> Newsletter
+                                Signup</label>
+                            <div class="table search-form">
+                                <div class="table__cell table__cell--expand">
+                                    <div id="signup-result-625423f03a7a84989" class="signup-result"></div>
+                                    <input id="mailing_box-625423f03a7a84989" class="input--expand no-border-right"
+                                        name="email_address" type="email" placeholder="Email address..." />
+                                </div>
+                                <div class="table_cell">
+                                    <button class="button--1 no-border-left" name="subscribe" type="submit"
+                                        onclick="if(document.getElementById('mailing_box-625423f03a7a84989').value == 'Email address...' || document.getElementById('mailing_box-625423f03a7a84989').value == '') {alert('Please enter a valid email address');return false;}"><span
+                                            class="ico icon-tick"></span></button>
+                                </div>
+                                <div class="ajax-loading signup-loader">
+                                    <div class="spinner">
+                                        <div class="bounce1"></div>
+                                        <div class="bounce2"></div>
+                                        <div class="bounce3"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="site-footer__newsletter__terms">To see how we process your data view our <a
+                                href="/privacy-policy-i4" title="Privacy Policy">Privacy Policy</a></div>
+                    </form>
+                    <script>var NewsletterSignupMessages = { error: "Unfortunately we were not able to subscribe you to our newsletter as the email address you entered is not valid.", success: "Thank you for entering your email address, you are now subscribed to our newsletter.", existing: "It appears you're already signed up to receive our newsletter." }; var email_prefs = false; vs.q(function () {
+                            var isMakingRequest = false; $('#newsletter_signup-625423f03a7a84989').submit(function (e) {
+                                e.preventDefault(); if (isMakingRequest) return; var $container = $(this), data = $container.serialize(), $result = $container.find('.signup-result').hide(); data += '&subscribe=1'; isMakingRequest = true; $('#newsletter_signup-625423f03a7a84989').addClass('signup-loading'); $('#newsletter_signup-625423f03a7a84989').removeClass('signup-existing signup-success signup-error'); $.ajax({
+                                    url: $container.attr('action'), data: data, dataType: 'json', type: 'POST', complete: function () { isMakingRequest = false; $('#newsletter_signup-625423f03a7a84989').removeClass('signup-loading'); }, success: function (json) {
+                                        if (typeof json.success !== 'undefined' && json.success) { if (typeof json.existing !== 'undefined' && json.existing) { var existing_dialog = NewsletterSignupMessages.existing + (email_prefs ? ' ' + NewsletterSignupMessages.existing_email_pref : ''); $result.html(existing_dialog); $('#newsletter_signup-625423f03a7a84989').addClass('signup-existing'); } else { var success_dialog = NewsletterSignupMessages.success + (email_prefs ? ' ' + NewsletterSignupMessages.success_email_pref : ''); $result.html(success_dialog); $('#newsletter_signup-625423f03a7a84989').addClass('signup-success'); } } else { $result.html(NewsletterSignupMessages.error); $('#newsletter_signup-625423f03a7a84989').addClass('signup-error'); }
+                                        $result.show().delay(email_prefs ? 10000 : 3000).fadeOut('slow');
+                                    }
+                                });
+                            });
+                        });</script> <label class="site-footer__top__newsletter__text" for="mailing_box"> </label>
+                </div>
+                <div class="col l-col-16 m-col-30 m-offset-1 l-offset-2">
+                    <ul class="social-icon__ul no-bullet inline-list cf">
+                        <li class="site-footer__social__title l-up">Follow Us</li>
+                        <li class="social__icon social__icon--blog"><a href="/news/" class="ico icon-blog"
+                                title="View Our Blog"><span>View Our Blog</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="site-footer__top">
+            <div class="row container--pad container--pad--no-bg">
+                <div id="js-site-footer__top__quick-links"
+                    class="site-footer__top__quick-links col l-col-32 m-col-30 m-offset-1 m-text-align-center s-col-32">
+                    <div class="row">
+                        <div class="col l-col-fifth m-col-third">
+                            <span class="site-footer__top__quick-links__title">HELP & INFORMATION<i
+                                    class="ico icon-plus"></i><i class="ico icon-minus"></i></span>
+                            <ul class="no-bullet">
+                                <li class="footer-group__content">
+                                    <a href="/about-us-i1">About Us</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/contact-us-i3">Contact Us</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/privacy-policy-i4">Privacy Policy</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/sitemap">Site Map</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/cookies">Cookies</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/news/">News</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/faqs-hub-i28">FAQ Hub </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col l-col-fifth m-col-third">
+                            <span class="site-footer__top__quick-links__title">ORDERS<i class="ico icon-plus"></i><i
+                                    class="ico icon-minus"></i></span>
+                            <ul class="no-bullet">
+                                <li class="footer-group__content">
+                                    <a href="/delivery-returns-i5">Delivery &amp; Returns</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/payment-security-i15">Payment &amp; Security</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/terms-conditions-i7">Terms &amp; Conditions</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col l-col-fifth m-col-third">
+                            <span class="site-footer__top__quick-links__title">BESPOKE & PAPER RANGE<i
+                                    class="ico icon-plus"></i><i class="ico icon-minus"></i></span>
+                            <ul class="no-bullet">
+                                <li class="footer-group__content">
+                                    <a href="/new-products">New Products</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/paper-c2">Paper</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/polythene-c1">Polythene</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/charity-bags-c4">Charity Bags</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/paper-bags-c2">Paper Bags (Flat)</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/paper-products-c2">Paper Carriers (SOS Bags)</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col l-col-fifth m-col-16 site-footer__top__quick-links__m-lower">
+                            <span class="site-footer__top__quick-links__title">POLYTHENE & CATERING RANGE<i
+                                    class="ico icon-plus"></i><i class="ico icon-minus"></i></span>
+                            <ul class="no-bullet">
+                                <li class="footer-group__content">
+                                    <a href="/catering-products-c3">Food Containers</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/catering-products-c3">Foil/Cling Film Rolls</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/polythene-carriers-c1">Vest Carriers</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/polythene-carriers-c1">Patch Carriers</a>
+                                </li>
+                                <li class="footer-group__content">
+                                    <a href="/polythene-carriers-c1">Foil Containers</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col l-col-fifth m-col-16 site-footer__top__quick-links__m-lower">
+                            <span class="site-footer__top__quick-links__title">Careers<i class="ico icon-plus"></i><i
+                                    class="ico icon-minus"></i></span>
+                            <ul class="no-bullet">
+                                <li class="footer-group__content">
+                                    <a href="mailto:Jobs@magnumpackaging.co.uk/">Careers</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="site-footer__middle">
+            <div class="row container--pad container--pad--no-bg">
+                <div
+                    class="site-footer__middle__item col l-col-third m-col-32 s-col-32 m-text-align-center s-text-align-center">
+                    <div class="site-footer__middle__copyright">&copy; 2022 Magnum Packaging. All Rights Reserved.</div>
+                </div>
+                <div
+                    class="site-footer__middle__item col l-col-third m-col-32 s-col-32 m-text-align-center s-text-align-center">
+                    <div class="row">
+                        <ul class="card-logos no-bullet">
+                            <li class="card-logos__logo card-logos__logo--mastercard lazyload"></li>
+                            <li class="card-logos__logo card-logos__logo--visa lazyload"></li>
+                            <li class="card-logos__logo card-logos__logo--maestro lazyload"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div
+                    class="site-footer__middle__item col l-col-third m-col-32 s-col-32 text-align-right m-text-align-center s-text-align-center">
+                    <div class="site-footer__middle__copyright"><a href='http://www.visualsoft.co.uk'
+                            onclick="this.target = '_blank'" title='eCommerce by Visualsoft'
+                            rel='nofollow'>eCommerce</a> by Visualsoft</div>
+                </div>
+            </div>
+        </div>
+        <div class="site-footer__lower">
+            <div class="row container--pad container--pad--no-bg">
+                <div class="col l-col-32 s-col-32 text-align-center">
+                    <div id="footer_credit" class="footer-credit">
+                        Magnum Packaging Registered office Magnum House, Macklin Avenue, Cowpen Lane Industrial Estate,
+                        Billingham, Stockton on Tees, TS23 4BY, England, Registered in GB<br />Company Registration
+                        Number 01764041 VAT no. 329369428</div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
